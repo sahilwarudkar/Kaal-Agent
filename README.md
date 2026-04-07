@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="logo.jpg" alt="Kaal Agent Logo" width="150" style="border-radius: 25px; margin-bottom: 15px;"/>
   <h1>🌌 Kaal Agent</h1>
   <p><b>An Autonomous AI Intelligence Core</b></p>
 
@@ -87,10 +88,10 @@ Open your browser and navigate to exactly: **`http://127.0.0.1:5000`** to access
 I am continuously building and exploring the bleeding edge of Autonomous Agents, LLM architecture, and AI-driven UI systems. If you're building something exciting, have an idea, or just want to connect—I'd love to chat!
 
 <p>
-  <a href="https://linkedin.com/in/sahilwarudkar">
+  <a href="https://www.linkedin.com/in/sahil-warudkar-1181a4232/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sahilwarudkar@gmail.com">
+  <a href="mailto:[sahilwarudkar2002@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
