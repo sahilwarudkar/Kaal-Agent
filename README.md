@@ -1,106 +1,147 @@
 <div align="center">
-  <h1>
-    <img src="logo.jpg" alt="Logo" width="45" style="vertical-align: middle; border-radius: 10px; margin-right: 10px;"/>Kaal Agent
-  </h1>
-  <p><b>An Autonomous AI Intelligence Core</b></p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-    <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </p>
+```
+   ██╗  ██╗ █████╗  █████╗ ██╗      █████╗  ██████╗ ███████╗███╗   ██╗████████╗
+   ██║ ██╔╝██╔══██╗██╔══██╗██║     ██╔══██╗██╔════╝ ██╔════╝████╗  ██║╚══██╔══╝
+█████╔╝ ███████║███████║██║     ███████║██║  ███╗█████╗  ██╔██╗ ██║   ██║
+██╔═██╗ ██╔══██║██╔══██║██║     ██╔══██║██║   ██║██╔══╝  ██║╚██╗██║   ██║
+██║  ██╗██║  ██║██║  ██║███████╗██║  ██║╚██████╔╝███████╗██║ ╚████║   ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝
+```
+
+**`// AUTONOMOUS AI INTELLIGENCE CORE`**
+
+![STATUS](https://img.shields.io/badge/STATUS-ONLINE-1D9E75?style=flat-square&labelColor=0a0a0a)
+![ENGINE](https://img.shields.io/badge/ENGINE-llama--3.3--70b-7F77DD?style=flat-square&labelColor=0a0a0a)
+![RUNTIME](https://img.shields.io/badge/RUNTIME-Groq_LPU-F55036?style=flat-square&labelColor=0a0a0a)
+![FRAMEWORK](https://img.shields.io/badge/FRAMEWORK-SmolAgents-3776AB?style=flat-square&labelColor=0a0a0a)
+![BACKEND](https://img.shields.io/badge/BACKEND-Flask-FFFFFF?style=flat-square&labelColor=0a0a0a)
+
 </div>
 
-<br>
+---
 
-**Kaal Agent** is an autonomous, high-performance AI intelligence core powered by the incredibly fast **Llama-3.3-70b** engine on **Groq**. 
-
-Encased in a beautiful, dark-mode glassmorphic web interface, Kaal is designed to behave like a true reasoning machine rather than a simple chatbot. It is equipped with advanced "Agentic Senses" allowing it to conduct real-world research, ingest dynamic files, profile human targets, and execute embedded code on the fly.
+> **Kaal** is not a chatbot. It is a reasoning machine — an autonomous agent that perceives, plans, and acts.
+> Powered by `llama-3.3-70b` on Groq's ultra-fast LPU architecture, encased in a dark-mode glassmorphic interface, Kaal can search the live web, profile individuals, execute Python code, and ingest documents — all as part of a single reasoning chain.
 
 ---
 
-## ✨ Core Features
+## `> MEET KAAL — LIVE DEMO`
 
-### 🧠 The Brain (`llama-3.3-70b-versatile`)
-Runs on Groq's ultra-fast LPU architecture, allowing lightning-fast reasoning, step-by-step logic, and zero-latency thinking.
+> **Talk to the agent directly.** Click the button below to launch the interactive Kaal Agent intro — it boots up, introduces itself, and responds to your questions in real time.
 
-### 🛠️ Agentic Senses (Tools)
-- **Tavily Web Search:** Advanced depth-scanning algorithms for fetching accurate, real-time factual data from the live internet.
-- **Happenstance API:** Deep-dive human logic for pulling precise professional profiles, backgrounds, and networking intelligence.
-- **Local Python Executor:** Kaal has a built-in sandbox to physically write, debug, and execute Python code internally to calculate math, parse data, or solve logic puzzles.
-- **Local Document Ingestion:** Full backend capabilities to read and extract knowledge from dense PDF documents and text files on the fly.
+<div align="center">
 
-### 🖥️ The Interface (Cyber-Zinc UI)
-A premium, responsive, dark-mode Glassmorphic Flask Web Application. 
-- **Real-time Markdown Streaming**
-- **Live Syntax Highlighting** for code blocks
-- **Persistent LocalStorage** chat thread tracking so conversations are never lost.
+<a href="https://sahilwarudkar.github.io/Kaal-Agent/agent.html" target="_blank">
+  <strong>▶ LAUNCH KAAL AGENT DEMO</strong>
+</a>
+
+<br><br>
+
+<em>or open <code>kaal-agent-intro.html</code> locally after cloning the repo</em>
+
+</div>
+
+> Preview of what you'll see:
+>
+> ```
+> KAAL AGENT  //  INTELLIGENCE CORE ONLINE  ●
+> ─────────────────────────────────────────────
+> kaal_agent  Initiating boot sequence...
+> kaal_agent  [ CORE LOADED ] Neural pathways online.
+>             Memory banks clear. All agentic senses armed.
+> kaal_agent  I'm Kaal — your autonomous intelligence core.
+>             I don't just answer. I reason, search, execute, act.
+> kaal_agent  What's your mission? I'm ready to engage.
+> ─────────────────────────────────────────────
+> > What can you do?   > Who built you?
+> > Show me the repo   > How do I run you?
+> ```
 
 ---
 
-## 🛠️ Technology Stack
+## `> AGENTIC SENSES`
 
-| Architecture Layer | Technology |
-| :--- | :--- |
-| **Logic & Orchestration** | `SmolAgents` (Agentic Framework) |
-| **LLM Engine** | `Groq` API (`Llama-3.3-70b-versatile`) |
-| **Backend API** | `Python`, `Flask` |
-| **Frontend UI** | `Vanilla JavaScript`, `HTML5`, `CSS3` (Custom CSS Grid & Glassmorphism) |
-| **Icons & Typography** | `Phosphor Icons`, `Google Fonts` |
+| Sense | Capability | API |
+|:------|:-----------|:----|
+| 🧠 **Neural Engine** | Zero-latency reasoning, multi-step logic chaining | `Groq · llama-3.3-70b-versatile` |
+| 🌐 **Web Intelligence** | Depth-scanning real-time internet retrieval | `Tavily` |
+| 👤 **Human Profiler** | Professional backgrounds, networks, digital presence | `Happenstance` |
+| 💻 **Code Executor** | Writes, debugs, and runs Python in a local sandbox | `Python runtime` |
+| 📄 **Doc Ingestion** | Extracts knowledge from dense PDFs and text files | `Local FS` |
+| 🖥️ **Cyber-Zinc UI** | Dark-mode glassmorphic interface, markdown streaming | `Flask · JS` |
 
 ---
 
-## 🚀 Setup & Installation
+## `> TECH STACK`
 
-Get Kaal Agent running on your local machine in minutes.
+```
+orchestration  →  SmolAgents (agentic framework)
+llm engine     →  Groq API · llama-3.3-70b-versatile
+backend        →  Python · Flask
+frontend       →  Vanilla JavaScript · HTML5 · CSS3
+icons / fonts  →  Phosphor Icons · Google Fonts
+```
 
-### 1. Clone the Repository
+---
+
+## `> IGNITION SEQUENCE`
+
+### `[01]` Clone the repository
 ```bash
 git clone https://github.com/sahilwarudkar/Kaal-Agent.git
 cd Kaal-Agent
 ```
 
-### 2. Install Dependencies
-Make sure you have Python 3.10+ installed, then run:
+### `[02]` Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Environment Variables
-Create a file named `.env` in the root directory and add your API credentials:
+> Requires **Python 3.10+**
+
+### `[03]` Configure environment
 ```env
+# .env
 GROQ_API_KEY=your_groq_api_key_here
 TAVILY_API_KEY=your_tavily_api_key_here
 HAPPENSTANCE_API_KEY=your_happenstance_api_key_here
 ```
 
-### 4. Ignite the Core
-Boot up the Flask server:
+### `[04]` Ignite the core
 ```bash
 python server.py
 ```
-Open your browser and navigate to exactly: **`http://127.0.0.1:5000`** to access the Kaal Interface.
+
+Navigate to **`http://127.0.0.1:5000`** — the Kaal interface will be live.
 
 ---
 
-## 🤝 Let's Collaborate
+## `> INTERFACE`
 
-I am continuously building and exploring the bleeding edge of Autonomous Agents, LLM architecture, and AI-driven UI systems. If you're building something exciting, have an idea, or just want to connect—I'd love to chat!
+The **Cyber-Zinc UI** is a premium responsive Flask web application built on pure HTML/CSS/JS.
 
-<p>
-  <a href="https://www.linkedin.com/in/sahil-warudkar-1181a4232/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[sahilwarudkar2002@gmail.com]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+- Real-time markdown streaming with token-by-token rendering
+- Live syntax highlighting for all code blocks
+- Persistent `localStorage` chat thread tracking — conversations never lost
+- Full dark-mode glassmorphism aesthetic
 
-*Feel free to star ⭐ this repository if you found it useful!*
+---
+
+## `> CONNECT`
+
+I'm continuously building at the bleeding edge of autonomous agents, LLM architecture, and AI-driven UI systems. If you're working on something exciting — let's talk.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-warudkar-1181a4232/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilwarudkar2002@gmail.com)
+[![GitHub](https://img.shields.io/badge/%E2%AD%90_Star_this_repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilwarudkar/Kaal-Agent)
+
+</div>
 
 ---
 
 <div align="center">
-  <p>Built with 🩵 by <a href="https://github.com/sahilwarudkar">Sahil Warudkar</a></p>
+  <sub><code>// built with 🩵 by sahil warudkar · kaal agent v1.0</code></sub>
 </div>
