@@ -82,6 +82,23 @@ Open your browser and navigate to exactly: **`http://127.0.0.1:5000`** to access
 
 ---
 
+## 🤝 Let's Collaborate
+
+I am continuously building and exploring the bleeding edge of Autonomous Agents, LLM architecture, and AI-driven UI systems. If you're building something exciting, have an idea, or just want to connect—I'd love to chat!
+
+<p>
+  <a href="https://linkedin.com/in/sahilwarudkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sahilwarudkar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+*Feel free to star ⭐ this repository if you found it useful!*
+
+---
+
 <div align="center">
   <p>Built with 🩵 by <a href="https://github.com/sahilwarudkar">Sahil Warudkar</a></p>
 </div>
