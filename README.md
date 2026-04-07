@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="logo.jpg" alt="Kaal Agent Logo" width="150" style="border-radius: 25px; margin-bottom: 15px;"/>
-  <h1>🌌 Kaal Agent</h1>
+  <h1>
+    <img src="logo.jpg" alt="Logo" width="45" style="vertical-align: middle; border-radius: 10px; margin-right: 10px;"/>Kaal Agent
+  </h1>
   <p><b>An Autonomous AI Intelligence Core</b></p>
 
   <p>
