@@ -154,7 +154,7 @@ agent = CodeAgent(
     additional_authorized_imports=["requests", "re", "json", "time", "datetime", "math", "os"]
 )
 # Modify the predefined system prompt of smolagents CodeAgent to inject our instructions
-agent.system_prompt = SYSTEM_PROMPT + "\n\n" + agent.system_prompt
+agent.prompt_templates["system_prompt"] = SYSTEM_PROMPT + "\n\n" + agent.prompt_templates["system_prompt"]
 print("6. Kaal Agent is fully assembled and ready for complex tasks! 🚀")
 
 
